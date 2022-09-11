@@ -1,0 +1,11 @@
+{
+    "name" : "container",
+    "params" : {
+        "child" : {
+            "name" : "Text",
+            "params" : {
+                "0" : "Hi Dien"
+            }
+        }
+    }
+}
