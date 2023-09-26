@@ -223,7 +223,7 @@ class _HomeScreenState extends State<HomeScreen> {
           image: DecorationImage(
             image: AssetImage("assets/bg.png"),
             fit: BoxFit.fill
-            )
+        )
         ),
         child: 
         Stack(
